@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
 <h3 align="center">A full-stack developer from Indonesia</h3>
 
+# 📊 GitHub Stats
 <div align="center">
   
-# 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=ixicept&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ixicept&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
