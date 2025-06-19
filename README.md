@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
 <h3 align="center">A full-stack developer from Indonesia</h3>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 <div align="center">
   
 ![](https://nirzak-streak-stats.vercel.app/?user=ixicept&theme=dark&hide_border=true)<br/>
